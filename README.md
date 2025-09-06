@@ -64,8 +64,9 @@ ________________________________________
 <img width="1915" height="1013" alt="image" src="https://github.com/user-attachments/assets/1549e478-be62-4120-93da-07fd1218c287" />
 
 •	PC IP settings<br>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64271f62-1e21-44a4-864c-13a9bfccd04c" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18cd2927-0214-4bca-b174-81da82772cdd" />
+<img width="1023" height="537" alt="Screenshot 2025-09-06 143011" src="https://github.com/user-attachments/assets/17df2bb1-4b51-49c9-b284-03de0fa58f26" />
+
+<img width="1022" height="541" alt="Screenshot 2025-09-06 143029" src="https://github.com/user-attachments/assets/ac943b58-2e9b-4b29-9df8-1fc5b8a1701a" />
 
 •	Successful ping between PCs in the same VLAN<br>
 <img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/a5b20987-c0f9-4033-a620-274d176e96e5" />
